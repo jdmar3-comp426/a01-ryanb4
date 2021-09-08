@@ -12,7 +12,8 @@ body {
 
 a {
     text-decoration: none;
-    color: black;
+    color: #000000
+    ;
 }
 
 h1 {
@@ -28,7 +29,7 @@ h2 {
 }
 
 #subtitle {
-    color: gray;
+    color: #454545;
 }
 
 .index-nav {
@@ -36,10 +37,10 @@ h2 {
     align-items: center;
     justify-content: center;
     margin-top: 100px;
-    background-color: gray;
+    background-color: #454545;
     width: 600px;
     height: 500px;
-    border: 1px solid black;
+    border: 1px solid #000000;
     border-radius: 10px;
 }
 
